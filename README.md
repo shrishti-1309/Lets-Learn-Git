@@ -11,7 +11,8 @@ The Seat Heating control system is basically used to control the temperature of 
 
 ### SIMULATION RESULTS:
 
-https://github.com/256644/LttsEmbeddedc/blob/master/img/41.jpeg?raw=true
+![image](https://user-images.githubusercontent.com/69230664/127031627-06e5a6f9-3c53-498f-8d42-3c2667902d8c.png)
+
 
 ----
 ## ACTIVITY 1
